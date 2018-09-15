@@ -1,0 +1,1 @@
+require('./duvidaCruel'); // se não referenciarmos no arquivo de entrada, o webpack não vai encontrar o arquivo
